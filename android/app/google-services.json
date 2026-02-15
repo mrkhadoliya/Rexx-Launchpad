@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "963692059738",
+    "project_id": "docoinlaunchpad-b35a9",
+    "storage_bucket": "docoinlaunchpad-b35a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963692059738:android:e18f0a888059075a584c63",
+        "android_client_info": {
+          "package_name": "com.docoinlaunchpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963692059738-2qmgqptrbo052qsria47t3va4jj8ifrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docoinlaunchpad",
+            "certificate_hash": "6cd35e9fdbeb0f50d18b93ce2ca820ae7fe4bb01"
+          }
+        },
+        {
+          "client_id": "963692059738-vgvhkfbf13drmvgjrnhni3uta8ddecnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docoinlaunchpad",
+            "certificate_hash": "45010b5e123ed52d5e1e056bf6cd5e3866a481e9"
+          }
+        },
+        {
+          "client_id": "963692059738-96r9386vl8n0sofknnlc7d2mq68ejkpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbJ3EbD1dG1NFG_wIj2YRQ1E9akrJATU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963692059738-96r9386vl8n0sofknnlc7d2mq68ejkpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
